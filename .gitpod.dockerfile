@@ -1,2 +1,2 @@
-FROM gitpod/workspace-base:9d5298660f980209c50ca5730f2c61b5cd6041c8
+FROM gitpod/workspace-node
 
