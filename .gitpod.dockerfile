@@ -1,2 +1,2 @@
-FROM gitpod/workspace-node
+FROM gitpod/workspace-full
 
